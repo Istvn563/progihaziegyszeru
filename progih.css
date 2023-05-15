@@ -1,0 +1,39 @@
+body{
+    
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#kep{
+    text-align: center;
+}
+.gepeszeti{
+    text-align: center;
+}
+#tablazat{
+    text-align: center;
+}
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+#hatter{
+    background-color: lightblue;
+}
+#lista{
+    border: 2px solid black; 
+    border-collapse: collapse;  
+    margin-left: auto; 
+    margin-right: 90%;
+}
+#betu1{
+    color: white;
+}
+#betu2{
+    color:blue;
+}
